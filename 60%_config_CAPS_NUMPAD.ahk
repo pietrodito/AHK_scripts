@@ -92,10 +92,10 @@ p::Send "{+}"
 `;::Send "{Enter}"
 0::Send "{-}"
 
-e::Send {Up}
-d::Send {Down}
-s::Send {Left}
-f::Send {Right}
+e::Send "{Up}"
+d::Send "{Down}"
+s::Send "{Left}"
+f::Send "{Right}"
 
 
 #HotIf
